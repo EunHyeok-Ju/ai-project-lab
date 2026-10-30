@@ -47,9 +47,9 @@ flowchart LR
 ## Roadmap / status boundaries
 
 - **Operational:** 인증된 시장 데이터 대시보드 V1
-- **Implemented but not yet production-deployed:** Processor 요약 API/UI 일부 기능
+- **Implemented in development branch, not production-deployed:** Processor 요약·규칙형 Analyst·Reporter 관련 기능
 - **Opt-in / not enabled by default:** Collector 실행 활동 기록
-- **Not implemented:** Analyst, Reporter, 자동 AI 투자 해석/추천
+- **Not operational:** Analyst/Reporter 운영 실행 및 자동 스케줄. AI 기반 투자 추천 기능은 제공하지 않음
 
 ## Portfolio boundary
 
